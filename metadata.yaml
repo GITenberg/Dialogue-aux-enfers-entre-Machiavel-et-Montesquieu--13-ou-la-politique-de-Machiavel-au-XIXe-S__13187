@@ -1,0 +1,30 @@
+_repo: Dialogue-aux-enfers-entre-Machiavel-et-Montesquieu--13-ou-la-politique-de-Machiavel-au-XIXe-S__13187
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Joly, Maurice
+    birthdate: 1831
+    deathdate: 1878
+    gutenberg_agent_id: '4890'
+    url: http://www.gutenberg.org/2009/agents/4890
+    wikipedia: http://en.wikipedia.org/wiki/Maurice_Joly
+description: ''
+gutenberg_bookshelf: FR Politique
+gutenberg_issued: '2004-08-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13187'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- Politics and government -- 1852-1870'
+- !lcc 'JC'
+- !lcsh 'Political ethics'
+title: "Dialogue aux enfers entre Machiavel et Montesquieu\r\nou la politique de Machiavel\
+  \ au XIXe Siècle par un contemporain"
+url: http://www.gutenberg.org/ebooks/13187
