@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4890
     wikipedia: http://en.wikipedia.org/wiki/Maurice_Joly
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13187#Dialogue-aux-enfers-entre-Machiavel-et-Montesquieu--13-ou-la-politique-de-Machiavel-au-XIXe-S_
 gutenberg_bookshelf: FR Politique
 gutenberg_issued: '2004-08-15'
 gutenberg_type: Text
